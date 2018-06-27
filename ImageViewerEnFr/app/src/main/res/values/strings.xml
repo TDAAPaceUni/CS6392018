@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flower Images</string>
+    <string name="action_settings">Settings</string>
+    <string name="impatiens">Impatiens</string>
+    <string name="common_peony">Common Peony</string>
+    <string name="marsh_labrador">Marsh Labrador</string>
+    <string name="geranium">Geranium</string>
+    <string name="mountain_laurel">Mountain Laurel</string>
+    <string name="siberian_iris">Siberian Iris</string>
+</resources>
